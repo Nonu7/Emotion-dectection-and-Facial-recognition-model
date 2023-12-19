@@ -1,1 +1,1 @@
-# Emotion-dectection-and-Facial-recognition-model
+# MINOR PROJECT - 3
